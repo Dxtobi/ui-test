@@ -1,0 +1,3 @@
+<div class='fixed bottom-[70px] w-full  bg-[#ff0000] text-white z-10'>
+    Loading...
+</div>
